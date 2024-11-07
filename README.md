@@ -1,7 +1,7 @@
 # Poker Card Class Classifier
 The Poker Card Class Classifier is an object detection project developed using YOLOv5, tailored to identify and classify poker cards. This model is trained specifically to detect different poker card types, accurately recognizing them in various orientations and lighting conditions. It main purpose is to identify which rank is your set 5 cards is and identify the winner. There are total 10 ranks on basis of which a winner is decided.
 
-![Alt text](Object_Detection/how-to-ranking.jpg)
+![Alt text](how-to-ranking.jpg)
 
 The model was trained on a comprehensive dataset of poker cards, ensuring a high degree of accuracy. You can access the dataset used for training using link "https://universe.roboflow.com/augmented-startups/playing-cards-ow27d/dataset/4". 
 
